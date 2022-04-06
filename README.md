@@ -1,4 +1,8 @@
-# Land & Freshwater Snails of Alabama
+# Snails of Alabama
+
+Snails of Alabama is a project to document all extant and recently extinct land and freshwater snails within Alabama.
+
+
 
 --------------
 
