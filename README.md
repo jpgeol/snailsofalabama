@@ -1,8 +1,8 @@
 # Snails of Alabama
 
-Snails of Alabama is a project to document all extant and recently extinct land and freshwater snails within Alabama.
+<P> Snails of Alabama is a project to document all extant and recently extinct land and freshwater snails within Alabama.
 
-
+<P> The idea for this project came about when I tried to identify various snails using [iNaturalists](https://www.inaturalist.org) app.
 
 --------------
 
